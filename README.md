@@ -202,7 +202,7 @@ Check out my other projects exploring:
 
 **x86owl** (x86owl)
 - GitHub: [@x86owl](https://github.com/x86owl)
-- Website: [soloshell.dev](https://x86owl.github.io/x86owl.dev/)
+- Website: [x86owl.dev](https://x86owl.github.io/x86owl.dev/)
 - Discord: [Join the solo_shell community](https://discord.gg/Jm9gXbxf4V)
 
 ## License
