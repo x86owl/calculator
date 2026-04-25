@@ -198,12 +198,6 @@ Check out my other projects exploring:
 - Binary exploitation and reverse engineering
 - Custom shells and process management
 
-## Author
-
-**x86owl** (x86owl)
-- GitHub: [@x86owl](https://github.com/x86owl)
-- Website: [x86owl.dev](https://x86owl.github.io/x86owl.dev/)
-- Discord: [Join the solo_shell community](https://discord.gg/Jm9gXbxf4V)
 
 ## License
 
